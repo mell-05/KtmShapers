@@ -264,18 +264,18 @@ body .button-seven {
   border-style: solid;
 }
 .ch-s-color,.default-footer.charity-footer .top-footer .footer-latest-news .single-news:hover h5 a {
-  color: #ff8a44;
+  color: #1f65a7;
 }
 .ch-s-bg-color,.charity-header .theme-main-menu .search:hover,.button-six:hover,.charity-theme .recent-cause .single-cause .title .clearfix a:hover,.charity-theme .recent-cause .all-cause:hover,
 .default-footer.charity-footer .top-footer .footer-subscribe form button:hover,.charity-theme .blog-details-content .reply-option button:hover,.charity-theme .donation-page form>button:hover,
 .error-page a:hover,.shop-page .main-wrapper .shop-sidebar .price-ranger .button-two:hover,.shop-details .single-product-details .info a:hover,.theme-contact-page-styleOne .contact-us-form form button:hover  {
-  background: #ff8a44;
+  background: #1f65a7;
 }
 .button-six:hover i {
-  border-left-color: #e4844b;
+  border-left-color: #1f65a7;
 }
 .charity-theme .recent-cause .all-cause:hover {
-  border-color: #ff8a44;
+  border-color: #1f65a7;
   border-style: solid;
 }
 /* ---------------------------- Theme Title -----------------------*/
@@ -994,18 +994,18 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   background-size: cover;
 }
 .charity-theme .help-banner .right-side .opacity {
-  background: rgba(34,34,34,0.95);
+  background: #e1e1e19e;
 }
 .charity-theme .help-banner .right-side .opacity .main-content {
   max-width: 585px;
   padding: 55px 0 62px 75px;
 }
 .charity-theme .help-banner .right-side .opacity .main-content h2 {
-  color: #fff;
+  color: #555555eb;
   line-height: 50px;
 }
 .charity-theme .help-banner .right-side .opacity .main-content p {
-  color: #fff;
+  color: #555555eb;
   margin: 22px 0 25px 0;
 }
 .charity-theme .help-banner .right-side .opacity .main-content ul li {
@@ -1022,7 +1022,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   display: block;
   width: 100px;
   line-height: 98px;
-  border: 1px solid #fff;
+  border: 1px solid #1f65a7;
   font-size: 42px;
   margin: 0 auto 13px auto;
   border-radius: 50%;
@@ -1030,7 +1030,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
 .charity-theme .help-banner .right-side .opacity .main-content ul li:hover i {color: #fff;}
 .charity-theme .help-banner .right-side .opacity .main-content .button-two {
   line-height: 43px;
-  border: 1px solid #636363;
+  border: 1px solid #1f65a7;
   color: #fff;
   text-transform: uppercase;
   font-weight: 500;
@@ -1042,7 +1042,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   background-size: cover;
 }
 .charity-theme .volunteer-banner .opacity {
-  background: rgba(18,18,18,0.60);
+  background: #e5e5e569;
   text-align: center;
   padding: 90px 0;
 }
