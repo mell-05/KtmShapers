@@ -117,7 +117,7 @@
   z-index: 99;
   text-align: center;
   color:#fff;
-  background: #f8c218;
+  background: #1f65a7;
   font-size: 28px;
   display: none;
 }
@@ -202,7 +202,7 @@ input,textarea {outline: none; -webkit-box-shadow: none; box-shadow: none;-webki
 .button-six i {
   line-height: 50px;
   border-radius: 0 30px 30px 0;
-  border-left:1px solid #e8bd37;
+  border-left:1px solid #fff;
   float:right;
   width: 50px;
   font-size: 20px;
@@ -244,7 +244,7 @@ body .button-seven {
 .charity-theme .theme-contact-page-styleOne .contactUs-address .single-address .icon,.shop-page .main-wrapper .shop-sidebar .shop-sidebar-list ul li a:hover,.charity-theme .blog-details-content .commnet-wrapper .single-comment button:hover,
 .shop-page .main-wrapper .shop-sidebar .single-popular-product:hover .product h5 a,.shop-page .all-product-wrapper .single-item:hover h5 a,.shop-page .page-pagination li a:hover,
 #mega-menu-holder li:hover .sub-toggle,#mega-menu-holder li.active .sub-toggle {
-  color: #f8c218;
+  color: #1f65a7;
 }
 .ch-p-bg-color,.charity-header .bootstrap-select.btn-group .dropdown-menu li a:hover,#charity-main-banner .tp-caption a.donate-button:hover,#charity-main-banner .tp-caption a.volunteer-button:hover,.charity-title h2:before,
 .button-six,.charity-title a:hover,.charity-theme .help-banner .right-side .opacity .main-content ul li:hover i,.charity-theme .help-banner .right-side .opacity .main-content .button-two:hover,.default-footer.charity-footer .bottom-footer ul li a:hover,
@@ -252,7 +252,7 @@ body .button-seven {
 .charity-theme .recent-cause-style-two .single-cause .title .clearfix a.more:hover,.charity-theme .recent-cause-details .button-two:hover,.charity-theme .theme-blog-sidebarOne .sidebar-keywords ul li a:hover,
 .charity-theme .donation-page form .bootstrap-select.btn-group .dropdown-menu li a:hover,.shop-page .main-wrapper .shop-sidebar .product-tag ul li a:hover,.shop-page .page-pagination li:last-child a:hover,
 .shop-page .all-product-wrapper .single-item:hover a.cart,.shop-page .shop-page-pagination li a:hover,.menuzord-menu ul.dropdown li:hover > a,#mega-menu-holder ul.dropdown li a:hover {
-  background: #f8c218;
+  background: #1f65a7;
 }
 #charity-main-banner .tp-caption a.volunteer-button,#charity-main-banner .tp-caption a.donate-button:hover:hover,.charity-theme .recent-cause .all-cause,.charity-title a:hover,.charity-theme .theme-team-style-one .single-team-member .title ul li a:hover,
 .charity-theme .help-banner .right-side .opacity .main-content ul li:hover i,.charity-theme .help-banner .right-side .opacity .main-content .button-two:hover,.default-footer.charity-footer .bottom-footer ul li a:hover,.charity-theme .charity-pagination li a:hover,
@@ -260,7 +260,7 @@ body .button-seven {
 .charity-theme .recent-cause-details .button-two,.charity-theme .similer-cause .owl-theme .owl-nav [class*=owl-]:hover,.charity-theme .blog-details-content .reply-option input:focus,.charity-theme .blog-details-content .reply-option textarea:focus,
 .shop-page .main-wrapper .shop-sidebar .product-tag ul li a:hover,.shop-page .page-pagination li a:hover,.shop-page .all-product-wrapper .single-item:hover a.cart,.shop-page .shop-page-pagination li a:hover,.theme-contact-page-styleOne .contact-us-form form input:focus,
 .theme-contact-page-styleOne .contact-us-form form textarea:focus {
-  border-color: #f8c218;
+  border-color: #1f65a7;
   border-style: solid;
 }
 .ch-s-color,.default-footer.charity-footer .top-footer .footer-latest-news .single-news:hover h5 a {
@@ -2086,7 +2086,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   margin-top: 40px;
 }
 .shop-page .main-wrapper .shop-sidebar .price-ranger .ui-widget-header {
-  background: #f8c218;
+  background: #1f65a7;
 }
 .shop-page .main-wrapper .shop-sidebar .price-ranger .ui-slider-handle {
   background: #fff;
@@ -2325,7 +2325,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   width: 65px;
   height: 60px;
   color: #fff;
-  background: #f8c218;
+  background: #1f65a7;
   text-transform: uppercase;
   text-align: center;
   font-size: 14px;
@@ -2350,7 +2350,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   font-family: 'Source Sans Pro', sans-serif;
   color: #a1a1a1;
 }
-.event-details-page .event-large-sidebar .event-title ul li:last-child a {color: #f8c218;}
+.event-details-page .event-large-sidebar .event-title ul li:last-child a {color: #1f65a7;}
 .event-details-page .event-large-sidebar .event-title {
   padding: 30px 0 25px 0;
   border-bottom: 1px solid rgba(0,0,0,0.09);
@@ -2372,7 +2372,7 @@ box-shadow: 0px 0px 18px -3px rgba(2,181,255,0.3);
   top: 5px;
   left: 0;
   font-size: 20px;
-  color: #f8c218;
+  color: #1f65a7;
   font-weight: normal;
 }
 .event-details-page .event-large-sidebar>ul {margin: 50px 0 80px 0;}
